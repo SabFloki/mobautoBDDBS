@@ -1,5 +1,5 @@
 # Pre-Commit E2E Tests in Android
-name: Pre-Commit E2E Tests in Android
+name: Android BS Auto Trigger
 # Controls when the action will run.
 on:
   push:
