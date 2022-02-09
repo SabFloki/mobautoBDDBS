@@ -1,6 +1,10 @@
 # APPIUM-Cucumber-BDD-WDIO
 
-Boilerplate project to run native and browser for android and ios using cucumber with page object pattern.
+Project to run native and browser for android and ios using cucumber with page object pattern.
+Parallel test runs - configured for android apps.
+
+Future Improvements:
+To add parallel config for iOS
 
 ## Based on
 
