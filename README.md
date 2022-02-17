@@ -6,7 +6,7 @@ Boilerplate project to run native and browser for android and ios using cucumber
 
 - WebdriverIO v7
 - cucumber v7
-- Node version 10.16 or higher
+- Node version 10.16 or higher version
 - Appium
 
 ## Supports
