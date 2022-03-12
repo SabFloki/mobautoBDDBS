@@ -1,5 +1,10 @@
 # APPIUM-Cucumber-BDD-WDIO
+<<<<<<< HEAD
 @@ text in purple (and bold)@@
+=======
+<p style="color:blue">This is demo content.</p>
+
+>>>>>>> 12c516363356ea67616954679de53191107c4f5e
 Project to run native and browser for android and ios using cucumber with page object pattern.
 Parallel test runs - configured for android apps.
 
