@@ -9,7 +9,7 @@ config.capabilities = [
         os_version:'11.0',
         name: 'Sab-Android-IB-Auto',
         deviceName: 'Samsung Galaxy S21',
-        app: 'bs://52c1fde59b9a46d1882d6c2072d7fd7b01ac09f6',
+        app: 'bs://fd9dc7690f1a4f4a2929b56306a4f729bfb6face',
         'browserstack.debug': true,
         'browserstack.appium_version': '1.21.0',
         realMobile: true,
