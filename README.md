@@ -18,7 +18,6 @@ To add parallel config for iOS
 - Android Chrome browser 
 - iOS Safari browser 
 - Supports Page Object Model
-- Contains sample test scenarios in cucumber
 - Supports multiple cucumber html reports
 - Run scripts in parallel devices on Browserstack
 
