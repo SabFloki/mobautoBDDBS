@@ -4,7 +4,7 @@ Project to run native and browser for android and ios using cucumber with page o
 Parallel test runs - configured for android apps.
 
 Future Improvements:
-To add parallel config for iOS
+To add parallel config for iOS platform
 
 ## Based on
 
